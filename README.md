@@ -1,2 +1,4 @@
 # Vidly
-Backend to movie renting website that allows customers to rent movies
+Backend to movie leasing website that allows customers to rent movies
+
+
